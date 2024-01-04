@@ -1,0 +1,4 @@
+export enum ORGANISATION {
+  PUBLIC = 'PUBLIC',
+  PRIVATE = 'PRIVATE',
+}
